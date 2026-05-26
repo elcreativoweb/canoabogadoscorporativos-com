@@ -1,0 +1,14 @@
+{
+    "domain": "canoabogadoscorporativos.com",
+    "base_url": "https:\/\/canoabogadoscorporativos.com",
+    "pages": 27,
+    "assets": 204,
+    "total_files": 231,
+    "total_size_mb": 13.78,
+    "output_dir": "\/tmp\/static-export\/canoabogadoscorporativos.com",
+    "pages_failed": [
+        "https:\/\/canoabogadoscorporativos.com\/wp-sitemap.xml"
+    ],
+    "assets_failed": [],
+    "generated_at": "2026-05-21 15:47:35"
+}
